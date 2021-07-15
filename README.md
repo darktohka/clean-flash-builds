@@ -8,6 +8,6 @@ Clean Flash Player builds are necessary because the Chinese variant of the Flash
 
 # Versions
 
-- [Flash 34.0.0.164 - Windows - Chrome, Firefox, IE](https://github.com/darktohka/clean-flash-builds/releases/tag/v1.9)
+- [Flash 34.0.0.175 - Windows - Chrome, Firefox, IE](https://github.com/darktohka/clean-flash-builds/releases/tag/v1.11)
 - [Flash 34.0.0.137 - Linux - Chrome, Firefox](https://github.com/darktohka/clean-flash-builds/releases/tag/v1.7)
-- [Flash 34.0.0.164 - Mac - Chrome, Firefox, Safari](https://github.com/darktohka/clean-flash-builds/releases/tag/v1.10)
+- [Flash 34.0.0.175 - Mac - Chrome, Firefox, Safari](https://github.com/darktohka/clean-flash-builds/releases/tag/v1.12)
